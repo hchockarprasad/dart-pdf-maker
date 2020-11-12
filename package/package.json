@@ -1,0 +1,10 @@
+{
+  "name": "pdf-templates",
+  "version": "1.0.0",
+  "description": "Pdf templates",
+  "author": "hchockarprasad@gmail.com",
+  "license": "ISC",
+  "engines": {
+    "node": ">8.9.0"
+  }
+}
